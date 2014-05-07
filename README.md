@@ -1,4 +1,4 @@
-*socket.io-session-browser!*
+socket.io-session-browser
 ---
 
 This module uses io.set('authorization') to add a session property to socket.handshake.
